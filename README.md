@@ -14,7 +14,6 @@
 - 🌱 Currently learning: **Next.js**, **Node.js**, and **GraphQL**
 - 🛠️ Tech Stack: **React**, **Laravel**, **TailwindCSS**, **PHP**, **Bootstrap**, **JavaScript**, **HTML**, **Sass**
 - 💬 Ask me about: React, Laravel, PHP, JavaScript, CSS, Tailwind, and more!
-- ⚡ Fun Fact: I run on coffee & code ☕👨‍💻
 
 ---
 
