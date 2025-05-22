@@ -26,13 +26,7 @@
 
 ---
 
-### 🚀 Featured Projects
-Here are a few cool things I’ve worked on:
-- 🌐 [My Portfolio](#) *(Add link if you have one)*
-- 💼 [E-commerce Project - Laravel + React](#)
-- 🔐 [Auth System with PHP & JWT](#)
 
----
 
 ### 🛠 Tech Stack
 
