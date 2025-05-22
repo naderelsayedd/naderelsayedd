@@ -5,11 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?&height=45&lines=Fullstack+Developer+💻;Always+Learning+New+Things+🚀;Coffee+Lover+☕&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG" />
-  </a>
-</p>
+
 
 ---
 
@@ -54,14 +50,14 @@ Here are a few cool things I’ve worked on:
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-%2300ADD8.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-%23F72C2C.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-%237B2FF2.svg?style=for-the-badge&logo=data&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 **Tools:**
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 **OS:**
 ![Windows](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
